@@ -7,6 +7,8 @@ I'm Graduated BCA<br> completed Software Testing with Python Selenium and Manual
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## Internship Certificates:
+[![Qspider]("C:\Users\achar\OneDrive\Desktop\WhatsApp Image 2026-03-05 at 12.20.01 PM.jpeg") [![SaiketSystems]("C:\Users\achar\OneDrive\Desktop\WhatsApp Image 2026-03-05 at 12.18.59 PM.jpeg")
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=acharabhishek7-gif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=acharabhishek7-gif&theme=dark&hide_border=false)<br/>
